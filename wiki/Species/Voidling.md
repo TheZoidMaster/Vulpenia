@@ -22,7 +22,7 @@ type: default
     </tr>
 </table>
 
-Voidlings are humanoid-like creatures that evolved throughout millions of years in the void, but in the last thousand years, they have slowly started to colonize the surface of Asden. The environment is far from save though, as they easily catch fire if they don't wear head protection. Most Voidlings seem to prefer forests as their environment of choice for creating structures to live in.
+Voidlings are humanoid-like creatures that evolved throughout millions of years in the void, but in the last thousand years, they have slowly started to colonize the surface of <page-link href="/wiki/Planets/Asden">Asden</page-link>. The environment is far from save though, as they easily catch fire if they don't wear head protection. Most Voidlings seem to prefer forests as their environment of choice for creating structures to live in.
 
 ## Weaknesses
 
